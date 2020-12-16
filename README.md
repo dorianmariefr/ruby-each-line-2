@@ -6,7 +6,7 @@ Execute ruby on each line from input
 
 ## Installation
 
-`$ gem install ruby-each-line` or add to your [Gemfile][] this line: `gem 'ruby-each-line'` then run [bundle install][]
+`$ gem install ruby-each-line` or add to your `Gemfile` this line: `gem 'ruby-each-line'` then run `bundle install`
 
 ## License
 
