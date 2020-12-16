@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    ruby-each-line (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-each-line!
+
+BUNDLED WITH
+   2.1.4
