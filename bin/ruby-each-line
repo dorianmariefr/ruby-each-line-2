@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+if ARGV.size != 1
+  puts "USAGE: INPUT | ruby-each-line CODE"
+  puts
+  puts 'EXAMPLE: ls | ruby-each-line "puts line.split(\'.\').last"'
+  exit
+end
+
+STDIN.each_line do |line|
+  line = line.strip
+  l = line
+  eval(ARGV.first)
+end
