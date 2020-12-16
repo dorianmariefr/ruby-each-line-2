@@ -10,5 +10,5 @@ Execute ruby on each line from input
 
 ## License
 
-Released under the MIT License. See the [LICENSE][] file for further details.
+Released under the MIT License. See the LICENSE file for further details.
 
