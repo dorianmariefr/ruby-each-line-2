@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.platform      = Gem::Platform::RUBY
-  spec.name          = "ruby-each-line"
+  spec.name          = "ruby-each-line-2"
   spec.version       = "0.0.1"
   spec.summary       = %q{Execute ruby on each line from input}
   spec.description   = spec.summary
